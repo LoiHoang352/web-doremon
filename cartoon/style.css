@@ -1,0 +1,54 @@
+body {
+    width: 70%;
+}
+header {
+    width: 100%;
+    
+    background-color: #ccc;
+}
+header img {
+    width: 150px;
+    height: 50px;
+    padding: 10px;
+}
+aside, article {
+    height: 700px;
+    float: left;
+    overflow: auto;
+}
+nav {
+    margin: 5px 0;
+    background-color: #ccc;
+    text-align: center;
+    padding: 10px 0;
+    
+    font-size: 18px;
+}
+nav a {
+    color: #000;
+    
+}
+aside {
+    width: 30%;
+    background-color: #ccc;
+ 
+    margin-right: 1%;
+}
+aside img {
+    width: 100%;
+}
+article {
+    width: 69%;
+}
+article p {
+    text-align: justify;
+}
+footer {
+    clear: both;
+    background-color: bisque;
+    text-align: center;
+}
+footer p {
+    font-size: 20px;
+    padding: 5px ;
+}
